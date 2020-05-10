@@ -15,6 +15,8 @@ SPIDER_MODULES = ['wikipedia_daily.spiders']
 NEWSPIDER_MODULE = 'wikipedia_daily.spiders'
 
 
+
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'wikipedia_daily (+http://www.yourdomain.com)'
 
